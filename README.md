@@ -7,7 +7,8 @@ Use VBA within Excel to change a report that is laid out in a stepped manner to 
     3       g   h   i
     4       j   k   l
     5   m   n   o   p
-    6       q   r   s
+    6           q   r
+    7       s   t   u
 
 Will turn into
 
@@ -17,7 +18,8 @@ Will turn into
     3   a   g   h   i
     4   a   j   k   l
     5   m   n   o   p
-    6   m   q   r   s
+    6   m   n   q   r
+    7   m   s   t   u
 
 
 # Directions
